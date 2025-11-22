@@ -44,7 +44,7 @@
 • Fundamentos de Data Science e Inteligência Artificial – Data Science Academy | Ciência de Dados | 24h | fundamentos de DS, IA, ciclo de projeto
 
 
-*◠『 TOTAL HORAS: [preencher na planilha] 』◡ — ◠『 QTD: [cursos CD] 』◡*
+*◠『 TOTAL HORAS: [479] 』◡ — ◠『 QTD: [17] 』◡*
 
 ---
 
@@ -160,7 +160,7 @@
 
 • Fundamentos para uma Carreira em IA Generativa – Microsoft / LinkedIn | IA / Carreira | 4h51min | roadmap, ferramentas, mercado
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos IA/ML] 』◡*
+*◠『 TOTAL HORAS: [286,85h] 』◡ — ◠『 QTD: [55] 』◡*
 
 ---
 
@@ -210,7 +210,7 @@
 
 • CS50 Brasil: Ciência da Computação de Harvard no Brasil – Fundação Estudar | Computação / Programação | 70h | C, Python, algoritmos
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos Python/Prog] 』◡*
+*◠『 TOTAL HORAS: [214h] 』◡ — ◠『 QTD: [22] 』◡*
 
 ---
 
@@ -246,7 +246,7 @@
 
 • Neural Networks e Deep Learning para Leigos – EIA | Matemática / ML | 5h | funções de ativação, básicos de DL
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos Estatística/Matemática] 』◡*
+*◠『 TOTAL HORAS: [258,5h] 』◡ — ◠『 QTD: [15] 』◡*
 
 ---
 
@@ -302,7 +302,7 @@
 
 • Propriedade Intelectual e Banco de Dados de Patentes (IFRO) – IFRO | Banco de Dados / Patentes | 20h
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos SQL/BD] 』◡*
+*◠『 TOTAL HORAS: [343h] 』◡ — ◠『 QTD: [25] 』◡*
 
 ---
 
@@ -380,7 +380,7 @@
 
 • Microsoft Power BI (formação) – Microsoft | Power BI | 72h | BI completo, relatórios, DAX
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos Excel/BI] 』◡*
+*◠『 TOTAL HORAS: [239,4h] 』◡ — ◠『 QTD: [35] 』◡*
 
 ---
 
@@ -407,8 +407,6 @@
 • Conceitos Iniciais de Cloud com Azure – DIO | Cloud / Azure | 6h
 
 • Configurando uma Instância de Banco de Dados no Azure – DIO | Azure / BD | 1h
-
-
 
 • Como a Computação em Nuvem funciona – DIO | Cloud | 1h
 
@@ -460,7 +458,7 @@
 
 • Microsoft Certification Challenge #4 DP-100 – DIO | Azure ML | 25h
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos Cloud/Azure/AWS] 』◡*
+*◠『 TOTAL HORAS: [142] 』◡ — ◠『 QTD: [37] 』◡*
 
 ---
 
@@ -530,7 +528,7 @@
 
 • Competências digitais: perspectivas para profissionais e organizações – UFSCar | Carreira / Digital | 5h
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos Negócios/Carreira] 』◡*
+*◠『 TOTAL HORAS: [205] 』◡ — ◠『 QTD: [33] 』◡*
 
 ---
 
@@ -552,7 +550,7 @@
 
 • Estrutura de Dados – IFRS | Computação | 20h
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos Computação Geral] 』◡*
+*◠『 TOTAL HORAS: [130] 』◡ — ◠『 QTD: [8] 』◡*
 
 ---
 
@@ -587,7 +585,7 @@
 
 • Ética na Era da Inteligência Artificial Generativa – LinkedIn | Ética / IA | 38min
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos Direito/Ética] 』◡*
+*◠『 TOTAL HORAS: [336,63h] 』◡ — ◠『 QTD: [14] 』◡*
 
 ---
 
@@ -619,11 +617,11 @@
 
 • Primeiros passos com o Microsoft 365 Copilot – LinkedIn | Produtividade / IA | 41min
 
-*◠『 TOTAL HORAS: [preencher] 』◡ — ◠『 QTD: [cursos extras] 』◡*
+*◠『 TOTAL HORAS: [18,81h] 』◡ — ◠『 QTD: [7] 』◡*
 
 ---
 
 # ⭐ TOTAIS GERAIS 
 
-◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [1.964,39⌚] 』◡
-◠『 QUANTIDADE TOTAL DE CURSOS: [362📚] 』◡
+◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [1.964,19⌚] 』◡
+◠『 QUANTIDADE TOTAL DE CURSOS: [269📚] 』◡
