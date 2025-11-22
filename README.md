@@ -210,7 +210,9 @@
 
 • CS50 Brasil: Ciência da Computação de Harvard no Brasil – Fundação Estudar | Computação / Programação | 70h | C, Python, algoritmos
 
-*◠『 TOTAL HORAS: [214h] 』◡ — ◠『 QTD: [22] 』◡*
+• Desafio de Código: Lógica e Pensamento Computacional – DIO | Programação / Lógica | 1h | raciocínio lógico, pensamento computacional
+
+◠『 TOTAL HORAS: [215h] 』◡ — ◠『 QTD: [23] 』◡
 
 ---
 
@@ -246,7 +248,11 @@
 
 • Neural Networks e Deep Learning para Leigos – EIA | Matemática / ML | 5h | funções de ativação, básicos de DL
 
-*◠『 TOTAL HORAS: [258,5h] 』◡ — ◠『 QTD: [15] 』◡*
+• Introdução ao Programa R – UFSCar | Estatística / R | 24h | fundamentos da linguagem R, análise estatística em R
+
+• Fundamentos da Linguagem R – EIA | Estatística / R | 7h | sintaxe básica de R, manipulação de dados
+
+*◠『 TOTAL HORAS: [289,5h] 』◡ — ◠『 QTD: [17] 』◡*
 
 ---
 
@@ -302,7 +308,11 @@
 
 • Propriedade Intelectual e Banco de Dados de Patentes (IFRO) – IFRO | Banco de Dados / Patentes | 20h
 
-*◠『 TOTAL HORAS: [343h] 』◡ — ◠『 QTD: [25] 』◡*
+• Fundamentos de Engenharia de Dados – Data Science Academy | Engenharia de Dados | 24h | pipelines de dados, ingestão, transformação
+
+• Introdução à Engenharia de Dados – EIA | Engenharia de Dados | 7h | fundamentos, arquitetura de dados
+
+*◠『 TOTAL HORAS: [374h] 』◡ — ◠『 QTD: [27] 』◡*
 
 ---
 
@@ -528,7 +538,11 @@
 
 • Competências digitais: perspectivas para profissionais e organizações – UFSCar | Carreira / Digital | 5h
 
-*◠『 TOTAL HORAS: [205] 』◡ — ◠『 QTD: [33] 』◡*
+• Educação Financeira – IFRS | Finanças Pessoais | 20h | orçamento, planejamento financeiro, juros
+
+• Comunicação Empresarial – IFRS | Comunicação / Negócios | 20h | comunicação profissional, redação empresarial
+
+*◠『 TOTAL HORAS: [245] 』◡ — ◠『 QTD: [35] 』◡*
 
 ---
 
@@ -623,5 +637,5 @@
 
 # ⭐ TOTAIS GERAIS 
 
-◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [1.964,19⌚] 』◡
-◠『 QUANTIDADE TOTAL DE CURSOS: [269📚] 』◡
+◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [2.067,19⌚] 』◡
+◠『 QUANTIDADE TOTAL DE CURSOS: [276📚] 』◡
