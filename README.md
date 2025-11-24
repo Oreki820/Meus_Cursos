@@ -212,7 +212,12 @@
 
 • Desafio de Código: Lógica e Pensamento Computacional – DIO | Programação / Lógica | 1h | raciocínio lógico, pensamento computacional
 
-◠『 TOTAL HORAS: [215h] 』◡ — ◠『 QTD: [23] 』◡
+• Fundamentos de Linguagem Python Para Análise de Dados, Data Science e Machine Learning  – Data Science Academy | Python | 64h | Python, Machine Learning, Data Science
+
+• Fundamentos de Linguagem Python do Básico a Aplicações de IA – Data Science Academy | Python / IA | 96h | Machine Learning, Python, Data Science, IA
+
+
+◠『 TOTAL HORAS: [375h] 』◡ — ◠『 QTD: [25] 』◡
 
 ---
 
@@ -637,5 +642,5 @@
 
 # ⭐ TOTAIS GERAIS 
 
-◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [2.067,19⌚] 』◡
-◠『 QUANTIDADE TOTAL DE CURSOS: [276📚] 』◡
+◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [2.227,19⌚] 』◡
+◠『 QUANTIDADE TOTAL DE CURSOS: [278📚] 』◡
