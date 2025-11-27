@@ -160,7 +160,17 @@
 
 • Fundamentos para uma Carreira em IA Generativa – Microsoft / LinkedIn | IA / Carreira | 4h51min | roadmap, ferramentas, mercado
 
-*◠『 TOTAL HORAS: [286,85h] 』◡ — ◠『 QTD: [55] 』◡*
+• Conhecendo o GitHub Copilot: Aumentando sua Produtividade na Programação – DIO | IA / Copilot | 1h | IA assistiva, geração de código
+
+• Configurando e Usando o GitHub Copilot – DIO | IA / Copilot | 1h | setup, VSCode, sugestões inteligentes
+
+• Bases de Prompt Engineering para o GitHub Copilot – DIO | IA / Prompt | 2h | prompts estruturados, comandos para código
+
+• Técnicas de Engenharia de Prompt – DIO | IA / Prompt | 2h | padrões avançados, contextualização, few-shot
+
+• Aumentando a Produtividade com IA e Versionamento de Código – DIO | IA / Copilot | 7h | automação, GitHub Copilot, fluxo inteligente
+
+*◠『 TOTAL HORAS: [299,85h] 』◡ — ◠『 QTD: [60] 』◡*
 
 ---
 
@@ -216,8 +226,61 @@
 
 • Fundamentos de Linguagem Python do Básico a Aplicações de IA – Data Science Academy | Python / IA | 96h | Machine Learning, Python, Data Science, IA
 
+• Introdução ao Bootcamp – Back-End com Python – DIO | Python | 1h | visão geral, sintaxe inicial
 
-◠『 TOTAL HORAS: [375h] 』◡ — ◠『 QTD: [25] 』◡
+• Ambiente de Desenvolvimento e Primeiros Passos com Python – DIO | Python | 1h | instalação, ambiente, primeiros comandos
+
+• Conhecendo a Linguagem de Programação Python – DIO | Python | 2h | sintaxe, tipos de dados
+
+• Tipos de Operadores com Python – DIO | Python | 2h | operadores aritméticos, lógicos, comparação
+
+• Estruturas Condicionais e de Repetição em Python – DIO | Python | 2h | if/else, loops, fluxo de controle
+
+• Manipulando Strings com Python – DIO | Python | 2h | slicing, métodos de string, formatação
+
+• Trabalhando com Listas em Python – DIO | Python | 1h | listas, métodos, iteração
+
+• Conhecendo Tuplas em Python – DIO | Python | 1h | tuplas, imutabilidade, uso prático
+
+• Aprendendo a Utilizar Dicionários em Python – DIO | Python | 1h | keys/values, manipulação, operações
+
+• Dominando Funções em Python – DIO | Python | 1h | funções, argumentos, retorno
+
+• Desafio de Projetos: Crie um Portfólio Vencedor – DIO | Python | 1h | lógica aplicada, mini-projeto
+
+• Otimizando o Sistema Bancário com Funções Python – DIO | Python | 1h | modularização, boas práticas
+
+• Decoradores, Iteradores e Geradores com Python – DIO | Python | 1h | programação avançada, yield, decoradores
+
+• Manipulando Arquivos em Python – DIO | Python | 1h | leitura, escrita, contexto, arquivos
+
+• Gerenciamento de Pacotes, Convenções e Boas Práticas com Python – DIO | Python | 1h | pip, venv, padrões de código
+
+• Introdução à Programação Orientada a Objetos (POO) com Python – DIO | Python / POO | 1h | classes, objetos, métodos
+
+• Aprendendo o Conceito de Herança com Python – DIO | Python / POO | 1h | herança, reutilização
+
+• Aplicando Encapsulamento em Python – DIO | Python / POO | 1h | atributos privados, getters/setters
+
+• Conhecendo Polimorfismo em Python – DIO | Python / POO | 1h | sobrescrita, interfaces
+
+• Interfaces e Classes Abstratas com Python – DIO | Python / POO | 1h | ABC, métodos abstratos
+
+• Modelando o Sistema Bancário em POO com Python – DIO | Python / POO | 1h | projeto orientado a objetos
+
+• Fundamentos de POO em Soluções Digitais – DIO | Python / POO | 1h | modelagem, boas práticas
+
+• Utilizando as Ferramentas do GitHub para Solucionar Algoritmos em Python – DIO | Python / GitHub | 1h | Copilot, automação, resolução de algoritmos
+
+• Primeiros Passos com Python e Versionamento de Código – DIO | Python | 6h | fundamentos, Git básico
+
+• Dominando Funções e Boas Práticas em Python – DIO | Python | 6h | funções avançadas, clean code
+
+• Programação Orientada a Objetos com Python – DIO | Python / POO | 7h | classes, herança, encapsulamento
+
+• Luizalabs – Back-end com Python – DIO/LuizaLabs | Backend / Python / FastAPI | 62h | APIs REST, BD, FastAPI, GitHub, Copilot, prompt engineering
+
+◠『 TOTAL HORAS: [488h] 』◡ — ◠『 QTD: [52] 』◡
 
 ---
 
@@ -477,6 +540,40 @@
 
 ---
 
+## 𓆩🛠️𓆪 *Backend & APIs (REST / FastAPI / Docker)*
+
+• Introdução a Aplicação Rest - DIO | APIs / Backend | 1h | API
+
+• Boas Práticas Para APIs RESTful – DIO | APIs / Backend | 3h | REST, boas práticas, métodos HTTP
+
+• Introdução ao FastAPI para APIs RESTful Assíncronas – DIO | FastAPI / Backend | 1h | async, rotas, desempenho
+
+• Primeiros Passos com FastAPI – DIO | FastAPI / Backend | 1h | rotas, Uvicorn, requisições
+
+• Desenvolvendo sua Primeira API com FastAPI, Python e Docker – DIO | FastAPI / Docker | 2h | containers, API real, boas práticas
+
+• Manipulação de Dados com FastAPI Assíncrono – DIO | FastAPI / Backend | 1h | rotas async, streaming de dados, requisições assíncronas
+
+• Autenticação e Autorização em FastAPI – DIO | FastAPI / Segurança | 1h | OAuth2, JWT, segurança, roles
+
+• Testando APIs RESTful Assíncronas em FastAPI – DIO | FastAPI / Testes | 1h | pytest, requests, validações
+
+• Deploy de uma API FastAPI Assíncrona – DIO | FastAPI / Deploy | 1h | containers, uvicorn workers, produção
+
+• Boas Práticas para APIs RESTful Assíncronas com FastAPI – DIO | FastAPI | 1h | estrutura, padronização, versionamento
+
+• Criando sua API Bancária Assíncrona com FastAPI (Desafio de projeto) – DIO | FastAPI / Projeto | 1h | arquitetura, rotas, integração
+
+• Fundamentos de APIs REST com FastAPI – DIO | FastAPI | 6h | métodos HTTP, validação, rotas
+
+• Integrando Python com Banco de Dados Relacionais – DIO | Python / BD / Backend | 6h | DB API, SQLAlchemy, CRUD
+
+• Evoluindo com APIs Assíncronas com FastAPI – DIO | FastAPI / Async | 6h | async/await, paralelismo, desempenho
+
+◠『 TOTAL HORAS: [32h] 』◡ — ◠『 QTD: [14] 』◡
+
+---
+
 ## 𓆩💼𓆪 *Negócios / Gestão / Carreira / Produtividade*
 
 • Comunicação Assertiva: reduzindo conflitos e frustrações – Alura | Comunicação | 6h
@@ -642,5 +739,5 @@
 
 # ⭐ TOTAIS GERAIS 
 
-◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [2.227,19⌚] 』◡
-◠『 QUANTIDADE TOTAL DE CURSOS: [278📚] 』◡
+◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [2.385,19⌚] 』◡
+◠『 QUANTIDADE TOTAL DE CURSOS: [329📚] 』◡
