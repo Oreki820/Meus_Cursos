@@ -174,6 +174,17 @@
 
 ---
 
+## 𓆩🛡️𓆪 *Cybersegurança & Hacking Ético*
+
+• Hackers do Bem – Nível Básico – Governo Federal / Softex / SENAI | Cibersegurança | 64h | ameaças cibernéticas, nuvem, criptografia, vulnerabilidades, GRC
+• Hackers do Bem – Nivelamento – Governo Federal / Softex / SENAI | Cibersegurança | 80h | fundamentos de redes, IPv4/IPv6, hardware, segurança, Linux/Windows, scripts
+
+◠『 TOTAL HORAS (Cybersegurança): [144h] 』◡ — ◠『 QTD: [2] 』◡
+
+
+
+---
+
 ## 𓆩💻𓆪 *Python & Programação*
 
 • Introdução à Programação – EBAC | Programação | 18h | lógica, estruturas básicas
@@ -725,10 +736,6 @@
 
 • Introdução ao Azure AI e Azure OpenAI Models (Introdução prática) – DIO | IA / Azure | 2h
 
-• Introdução à Ciência de Dados – DIO | Ciência de Dados | 6h  (já categorizado lá em cima, manter apenas uma vez se for migrar)
-
-• Introdução à Computação em Nuvem (repetidos / extras que você decidir separar depois) – [usar planilha para unificar se for o caso]
-
 • Otimize seu trabalho com o Microsoft Copilot – LinkedIn | Produtividade / IA | 38min
 
 • Primeiros passos com o Microsoft 365 Copilot – LinkedIn | Produtividade / IA | 41min
@@ -739,5 +746,5 @@
 
 # ⭐ TOTAIS GERAIS 
 
-◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [2.385,19⌚] 』◡
-◠『 QUANTIDADE TOTAL DE CURSOS: [329📚] 』◡
+◠『 TOTAL ABSOLUTO DE HORAS EM CURSOS: [2.549,19⌚] 』◡
+◠『 QUANTIDADE TOTAL DE CURSOS: [331📚] 』◡
